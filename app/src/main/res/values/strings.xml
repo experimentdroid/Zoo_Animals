@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zoo Animals</string>
+
+    <string name="no_data_msg">No data available</string>
+    <string name="no_internet_msg">Internet connection not available</string>
+    <string name="splash_message">Welcome to Animals Zoo</string>
+    <string name="diet_details">Diet: %s</string>
+    <string name="lifespan_details">Lifespan: %s</string>
+    <string name="lifespan_comment_yr_not_very_long">%d yr (Not very long!)</string>
+    <string name="lifespan_comment_yrs_not_very_long">%d yrs (Not very long!)</string>
+    <string name="lifespan_comment_yrs_kind_of_average">%d yrs (Kind of average)</string>
+    <string name="lifespan_comment_yrs_a_long_time">%d yrs (A long time)</string>
+    <string name="error_title">Error</string>
+    <string name="ok">OK</string>
+</resources>
